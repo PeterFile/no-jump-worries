@@ -10,7 +10,7 @@
 	// 	"strict": true   
 	// }
 	"compilerOptions": {
-		"outDir": "out",
+		"outDir": "dist",
 		"rootDir": "src",
 		"target": "ES6",
 		"module": "commonjs",
